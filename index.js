@@ -25,6 +25,7 @@ function johnLennonFacts (){
  var i = 0;
  function iLoveTheBeatles (){
    i=i+1;
+   return i;
    
    var empty[];
    do{
