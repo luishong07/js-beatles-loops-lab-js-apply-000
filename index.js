@@ -26,6 +26,6 @@ function johnLennonFacts (){
  function iLoveTheBeatles (){
    var empty[];
    do{
-     console.log()
+     console.log(empty.push)
    }
  }
