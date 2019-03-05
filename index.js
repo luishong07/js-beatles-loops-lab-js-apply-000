@@ -15,6 +15,14 @@ function johnLennonFacts (){
     "He hated to sound of his own voice"
     ];
 }
- while (johnLennonFacts()){
-   console.log()
+ while (johnLennonFacts()){   //how to return array?
+   console.log(facts[1]+"!!!")
+   console.log(facts[2]+"!!!")
+   console.log(facts[3]+"!!!")
+   console.log(facts[4]+"!!!")
+   
+ }
+ 
+ function iLoveTheBeatles (){
+   
  }
