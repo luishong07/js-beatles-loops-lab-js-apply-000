@@ -27,6 +27,6 @@ function johnLennonFacts (){
    var empty[];
    do{
      console.log(empty.push("I Love the Beatles!"))
-     while
-   }
+     
+   } While
  }
