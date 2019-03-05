@@ -31,5 +31,5 @@ function johnLennonFacts (){
    do{
      console.log(empty.push("I Love the Beatles!"))
      
-   } while (iLoveTheBeatles()<15)
+   } while (iLoveTheBeatles()<15);
  }
