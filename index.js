@@ -22,7 +22,7 @@ function johnLennonFacts (){
    console.log(facts[4]+"!!!")
    
  }
- 
+ var i = 0;
  function iLoveTheBeatles (){
    var empty[];
    do{
