@@ -16,5 +16,5 @@ function johnLennonFacts (){
     ];
 }
  while (johnLennonFacts()){
-   
+   consolo.log
  }
