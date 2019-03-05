@@ -25,5 +25,5 @@ function johnLennonFacts (){
  
  function iLoveTheBeatles (){
    var empty[];
-   empty.push
+   empty.push("I Love the Beatles!")
  }
