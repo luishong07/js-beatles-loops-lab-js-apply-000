@@ -4,7 +4,7 @@ function theBeatlesPlay (musicians, instruments){
   var musicians =['John','Paul','George','Ringo'];
   var instruments = ['guitar','bass guitar','sitar','drums'];
   for (var i=0;i<4;i++)
-  return 
+  return                  //how to add elements of arrays? concatinate?
 }
 
 function johnLennonFacts (){
