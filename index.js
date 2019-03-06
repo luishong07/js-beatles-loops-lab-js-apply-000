@@ -27,7 +27,7 @@ function johnLennonFacts (){
    i=i+1;
    return i;
    
-   var empty[];
+   var empty=[];
    do{
      console.log(empty.push("I Love the Beatles!"))
      
